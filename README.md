@@ -2,6 +2,8 @@
 
 This will make it easy to create a boilerplate for easy and simple Bootstrap projects
 
+![Gif](https://i.imgur.com/EMaQmDC.gif)
+
 ## Known Issues
 
 Please make a pull request tfor this.
