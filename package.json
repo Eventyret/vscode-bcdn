@@ -2,7 +2,7 @@
     "name": "bootstrap-4-cdn-snippet",
     "displayName": "Bootstrap 4 CDN Snippet",
     "description": "This will get you up and running to get a boilerplate of bootstrap ready in a sec",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "eventyret",
     "repository": {
         "type": "git",
@@ -19,6 +19,10 @@
             {
                 "language": "html",
                 "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/navsnippets.json"
             }
         ]
     }
