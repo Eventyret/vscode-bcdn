@@ -5,6 +5,19 @@ Ever been trying to start with a bootstrap template?
 This is normally not an issue but I found it tedious with using `!` then add all CSS  with font-awesome and jquery etc.
 This extension will solve the issue for you with a simple `!bcdn` + `TAB` and your up and running with a full templat
 
+
+# Bootstrap 4 with CDN Boilerplate
+
+Ever been trying to start with a bootstrap template? 
+
+This is normally not an issue but I found it tedious with using `!` then add all CSS  with font-awesome and jquery etc.
+This extension will solve the issue for you with a simple `!bcdn` + `TAB` and your up and running with a full templat
+
+
+![[Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/eventyret.bootstrap-4-cdn-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet) ![[contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/eventyret/issues) 
+![[Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/eventyret.bootstrap-4-cdn-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
+
+
 ![Gif](https://i.imgur.com/EMaQmDC.gif)
 
 
@@ -22,29 +35,43 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 | !bsnavj    	| Class to Justify Navigation                                                                   	|
 | !bfg    	| Bootstrap Form Group parent element                                                                 	|
 | !bfc    	| Bootstrap Form Control                                                             	|
-## Known Issues
-
-No known issues so far.
 
 ## Release Notes
+
+### [1.0.4]
+#### Added
+- Readme badges
+
+#### Fixed
+- Fixed error in package.json version
+
+
+### [1.0.3]
+#### Added
+
+- Added Navigation snippets  - Thanks to [@karnthis](https://github.com/karnthis) #1
+- Added Bootstrap4 CDN without jQuery -  Thanks to [@nartc](https://github.com/nartc) #2
+- Added 2 basic form snippets: form-group and form-control Thanks to [@nartc](https://github.com/nartc) #3
+- Updated readme with table of commands.
+- Added travis CI testing (WIP)
+
+#### Fixed
+- Fixed spelling errors.
+
+
+### [1.0.2]
+- Minor adjustments to files
 
 ### [1.0.0]
 
 Initial release of Bootstrap 4 with CDN Boilerplate
 
-## [1.0.2]
-- Minor adjustments to files
+## Known Issues
 
-### [1.0.3]
+No known issues so far.
 
-- Added Navigation snippets  - Thanks to [@karnthis](https://github.com/karnthis) #1
-- Added Bootstrap4 CDN without jQuery -  Thanks to [@nartc](https://github.com/nartc) #2
-- Added 2 basic form snippets: form-group and form-control Thanks to [@nartc](https://github.com/nartc) #3
-- Fixed spelling errors.
-- Updated readme with table of commands.
-- Added travis CI testing (WIP)
 
-## [Credits]
+## Credits
 
 - [@karnthis](https://github.com/karnthis)
 - [@nartc](https://github.com/nartc)
