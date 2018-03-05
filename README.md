@@ -29,6 +29,10 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 
 ## Release Notes
 
+### [1.0.5]
+#### Fixed
+- Double text in readme.
+
 ### [1.0.4]
 #### Added
 - Readme badges

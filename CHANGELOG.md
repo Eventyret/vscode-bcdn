@@ -1,24 +1,31 @@
-# Change Log
-All notable changes to the "bootstrap-4-cdn-snippet" extension will be documented in this file.
+### [1.0.5]
+#### Fixed
+- Double text in readme.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### [1.0.4]
+#### Added
+- Readme badges
 
-## [1.0.1]
-- Initial release
+#### Fixed
+- Fixed error in package.json version
 
-## [1.0.2]
-- Minor adjustments to files
 
-## [1.0.3] 05/03/2018
-### Added
+### [1.0.3]
+#### Added
 
 - Added Navigation snippets  - Thanks to [@karnthis](https://github.com/karnthis) #1
 - Added Bootstrap4 CDN without jQuery -  Thanks to [@nartc](https://github.com/nartc) #2
 - Added 2 basic form snippets: form-group and form-control Thanks to [@nartc](https://github.com/nartc) #3
-- Fixed spelling errors.
 - Updated readme with table of commands.
 - Added travis CI testing (WIP)
 
-### Fixed
+#### Fixed
+- Fixed spelling errors.
 
-- Fixed spelling errors
+
+### [1.0.2]
+- Minor adjustments to files
+
+### [1.0.0]
+
+Initial release of Bootstrap 4 with CDN Boilerplate
