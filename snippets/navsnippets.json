@@ -1,0 +1,65 @@
+{
+  "Bootstrap 4 Nav Stock": {
+    "prefix": "bsnavl",
+    "body": [
+      "<nav class=\"navbar navbar-expand-lg navbar-light bg-light\">",
+      "<ul class=\"nav\">",
+      "<li class=\"nav-item $1\">",
+      "<a class=\"nav-link active\" href=\"#\">Active</a>",
+      "</li>",
+      "<li class=\"nav-item\">",
+      "<a class=\"nav-link\" href=\"#\">Link</a>",
+      "</li>",
+      "<li class=\"nav-item\">",
+      "<a class=\"nav-link disabled\" href=\"#\">Disabled</a>",
+      "</li>",
+      "</ul>",
+      "</nav>"
+    ],
+    "description": "Default Navigation for Bootstrap 4"
+  },
+  "Bootstrap 4 Nav Center": {
+    "prefix": "navc",
+    "body": "justify-content-center",
+    "description": "Align Navigation Center"
+  },
+  "Bootstrap 4 Nav Right": {
+    "prefix": "navr",
+    "body": "justify-content-end",
+    "description": "Align Navigation Right"
+  },
+  "Bootstrap 4 Nav Tabs": {
+    "prefix": "navtab",
+    "body": "nav-tabs",
+    "description": "Use Tab Style Navigation"
+  },
+  "Bootstrap 4 Nav Pills": {
+    "prefix": "navpill",
+    "body": "nav-pills",
+    "description": "Use Pill Style Navigation"
+  },
+  "Bootstrap 4 Nav Justify": {
+    "prefix": "navj",
+    "body": "nav-justified",
+    "description": "Justify Navigation"
+  },
+  "Bootstrap 4 Nav Fill": {
+    "prefix": "navf",
+    "body": "nav-fill",
+    "description": "Fill Navigation"
+  },
+  "Bootstrap 4 Nav Dropdown": {
+    "prefix": "navdd",
+    "body": [
+      "<li class=\"nav-item dropdown\">",
+      "<a class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" href=\"# role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Dropdown</a>",
+      "<div class=\"dropdown-menu\">",
+      "<a class=\"dropdown-item\" href=\"#\">$1</a>",
+      "<div class=\"dropdown-divider\"></div>",
+      "<a class=\"dropdown-item\" href=\"#\">Separated link</a>",
+      "</div>",
+      "</li>"
+    ],
+    "description": "Default Dropdown Navigation"
+  }
+}
