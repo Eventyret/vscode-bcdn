@@ -1,10 +1,10 @@
 {
   "Bootstrap 4 Nav Stock": {
-    "prefix": "!bsnavl",
+    "prefix": "!bsnav",
     "body": [
       "<nav class=\"navbar navbar-expand-lg navbar-light bg-light\">",
-      "<ul class=\"nav\">",
-      "<li class=\"nav-item $1\">",
+      "<ul class=\"nav $1\">",
+      "<li class=\"nav-item\">",
       "<a class=\"nav-link active\" href=\"#\">Active</a>",
       "</li>",
       "<li class=\"nav-item\">",
@@ -19,40 +19,40 @@
     "description": "Default Navigation for Bootstrap 4"
   },
   "Bootstrap 4 Nav Center": {
-    "prefix": "!navc",
+    "prefix": "!bsnavc",
     "body": "justify-content-center",
-    "description": "Align Navigation Center"
+    "description": "Class to Align Navigation Center"
   },
   "Bootstrap 4 Nav Right": {
-    "prefix": "!navr",
+    "prefix": "!bsnavr",
     "body": "justify-content-end",
-    "description": "Align Navigation Right"
+    "description": "Class to Align Navigation Right"
   },
   "Bootstrap 4 Nav Tabs": {
-    "prefix": "!navtab",
+    "prefix": "!bsnavtab",
     "body": "nav-tabs",
-    "description": "Use Tab Style Navigation"
+    "description": "Class to Use Tab Style Navigation"
   },
   "Bootstrap 4 Nav Pills": {
-    "prefix": "!navpill",
+    "prefix": "!bsnavpill",
     "body": "nav-pills",
-    "description": "Use Pill Style Navigation"
+    "description": "Class to Use Pill Style Navigation"
   },
   "Bootstrap 4 Nav Justify": {
-    "prefix": "!navj",
+    "prefix": "!bsnavj",
     "body": "nav-justified",
-    "description": "Justify Navigation"
+    "description": "Class to Justify Navigation"
   },
   "Bootstrap 4 Nav Fill": {
-    "prefix": "!navf",
+    "prefix": "!bsnavf",
     "body": "nav-fill",
-    "description": "Fill Navigation"
+    "description": "Class to Fill Navigation"
   },
   "Bootstrap 4 Nav Dropdown": {
-    "prefix": "!navdd",
+    "prefix": "!bsnavdd",
     "body": [
       "<li class=\"nav-item dropdown\">",
-      "<a class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" href=\"# role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Dropdown</a>",
+      "<a class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Dropdown</a>",
       "<div class=\"dropdown-menu\">",
       "<a class=\"dropdown-item\" href=\"#\">$1</a>",
       "<div class=\"dropdown-divider\"></div>",
