@@ -11,16 +11,37 @@
 			"<link rel=\"stylesheet\" href=\"https: //maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css\">",
 			"<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css\">",
 			"<link rel=\"stylesheet\" href=\"style.css\">",
-			"<title>Document</title>",
+			"<title>${1:Title}</title>",
 			"</head>",
 			"<body>",
-			"$1",
+			"$0",
 			"<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>",
 			"<script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/esm/popper.min.js\"></script>",
 			"<script src=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js\"></script>",
 			"</body>",
 			"</html>"
 		],
-		"description": "This comes with a complete bootstrap 4 CDN all it's dependancies and font-awesome 4.7"
+		"description": "This comes with a complete Bootstrap 4 CDN all it's dependencies and Font-Awesome 4.7"
+	},
+	"Bootstrap 4 Starter Template CDN - CSS Only": {
+		"prefix": "!bcss",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html lang=\"en\">",
+			"<head>",
+			"<meta charset=\"UTF-8\">",
+			"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+			"<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">",
+			"<link rel=\"stylesheet\" href=\"https: //maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css\">",
+			"<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css\">",
+			"<link rel=\"stylesheet\" href=\"style.css\">",
+			"<title>${1:Title}</title>",
+			"</head>",
+			"<body>",
+			"$0",
+			"</body>",
+			"</html>"
+		],
+		"description": "This comes with a complete Bootstrap 4 CDN with CSS-only and font-awesome 4.7"
 	}
 }

@@ -6,7 +6,7 @@ This will make it easy to create a boilerplate for easy and simple Bootstrap pro
 
 ## Known Issues
 
-Please make a pull request tfor this.
+Please make a pull request for this.
 
 ## Release Notes
 
