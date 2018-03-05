@@ -1,34 +1,32 @@
 {
-    "name": "bootstrap-4-cdn-snippet",
-    "displayName": "Bootstrap 4 CDN Snippet",
-    "description": "This will get you up and running to get a boilerplate of bootstrap ready in a sec",
-    "version": "1.0.4",
-    "publisher": "eventyret",
+	"name": "bootstrap-4-cdn-snippet",
+	"displayName": "Bootstrap 4 CDN Snippet",
+	"description": "This will get you up and running to get a boilerplate of bootstrap ready in a sec",
+	"version": "1.0.4",
+	"publisher": "eventyret",
 	"test": "node ./node_modules/vscode/bin/test",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Eventyret/vscode-bcdn"
-    },
-    "engines": {
-        "vscode": "^1.20.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "html",
-                "path": "./snippets/snippets.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/navsnippets.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/formsnippets.json"
-            }
-        ]
-    }
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Eventyret/vscode-bcdn"
+	},
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"categories": ["Snippets"],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "html",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/navsnippets.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/formsnippets.json"
+			}
+		]
+	}
 }
