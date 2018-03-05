@@ -6,13 +6,19 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.1]
 - Initial release
 
+## [1.0.2]
+- Minor adjustments to files
+
 ## [1.0.3] 05/03/2018
 ### Added
-Added Navigation snippets  Thanks to [@karnthis](https://github.com/karnthis) #1
-Added Bootstrap4 CDN without jQuery Thanks to [@nartc](https://github.com/nartc) #2
-Added 2 basic form snippets: form-group and form-control Thanks to [@nartc](https://github.com/nartc) #3
-Added travis CI testing (WIP)
+
+- Added Navigation snippets  - Thanks to [@karnthis](https://github.com/karnthis) #1
+- Added Bootstrap4 CDN without jQuery -  Thanks to [@nartc](https://github.com/nartc) #2
+- Added 2 basic form snippets: form-group and form-control Thanks to [@nartc](https://github.com/nartc) #3
+- Fixed spelling errors.
+- Updated readme with table of commands.
+- Added travis CI testing (WIP)
 
 ### Fixed
 
-Fixed spelling errors
+- Fixed spelling errors

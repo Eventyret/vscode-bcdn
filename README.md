@@ -28,11 +28,14 @@ No known issues so far.
 
 ## Release Notes
 
-### 1.0.0
+### [1.0.0]
 
 Initial release of Bootstrap 4 with CDN Boilerplate
 
-### 1.0.3
+## [1.0.2]
+- Minor adjustments to files
+
+### [1.0.3]
 
 - Added Navigation snippets  - Thanks to [@karnthis](https://github.com/karnthis) #1
 - Added Bootstrap4 CDN without jQuery -  Thanks to [@nartc](https://github.com/nartc) #2
@@ -41,7 +44,7 @@ Initial release of Bootstrap 4 with CDN Boilerplate
 - Updated readme with table of commands.
 - Added travis CI testing (WIP)
 
-## Credits
+## [Credits]
 
 - [@karnthis](https://github.com/karnthis)
 - [@nartc](https://github.com/nartc)
