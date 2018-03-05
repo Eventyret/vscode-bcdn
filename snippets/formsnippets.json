@@ -1,0 +1,19 @@
+{
+    "FormGroup": {
+        "prefix": "!bfg",
+        "body": [
+            "<div class=\"form-group\">",
+            "$0",
+            "</div>"
+        ],
+        "description": "Bootstrap Form Group parent element"
+    },
+    "FormControl": {
+        "prefix": "!bfc",
+        "body": [
+            "<label for=\"${1: labelFor}\">${2:labelText}</label>",
+            "<input type=\"${3: inputType}\" id=\"${1: labelFor}\" class=\"form-control\">"
+        ],
+        "description": "Bootstrap Form Control"
+    }
+}
