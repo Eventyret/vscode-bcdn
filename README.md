@@ -1,6 +1,9 @@
 # Bootstrap 4 with CDN Boilerplate
 
-This will make it easy to create a boilerplate for easy and simple Bootstrap projects
+Ever been trying to start with a bootstrap template? 
+
+This is normally not an issue but I found it tedious with using `!` then add all CSS  with font-awesome and jquery etc.
+This extension will solve the issue for you with a simple `!bcdn` + `TAB` and your up and running with a full templat
 
 ![Gif](https://i.imgur.com/EMaQmDC.gif)
 
@@ -17,6 +20,8 @@ This will make it easy to create a boilerplate for easy and simple Bootstrap pro
 | !bsnavpill 	| Class to Use Pill Style Navigation                                                            	|
 | !bsnavdd   	| Default Dropdown Navigation (Requires Jquery)                                                 	|
 | !bsnavj    	| Class to Justify Navigation                                                                   	|
+| !bfg    	| Bootstrap Form Group parent element                                                                 	|
+| !bfc    	| Bootstrap Form Control                                                             	|
 ## Known Issues
 
 No known issues so far.
@@ -29,12 +34,14 @@ Initial release of Bootstrap 4 with CDN Boilerplate
 
 ### 1.0.3
 
-Added Navigation snippets  - Thanks to [@karnthis](https://github.com/karnthis) #1
-Added Bootstrap4 CDN without jQuery -  Thanks to [@nartc](https://github.com/nartc) #2
-Fixed spelling errors.
-Updated readme with table of commands.
+- Added Navigation snippets  - Thanks to [@karnthis](https://github.com/karnthis) #1
+- Added Bootstrap4 CDN without jQuery -  Thanks to [@nartc](https://github.com/nartc) #2
+- Added 2 basic form snippets: form-group and form-control Thanks to [@nartc](https://github.com/nartc) #3
+- Fixed spelling errors.
+- Updated readme with table of commands.
+- Added travis CI testing (WIP)
 
 ## Credits
 
-[@karnthis](https://github.com/karnthis) - For navigation snippets
-[@nartc](https://github.com/nartc) - For spelling fixes and start without jquery
+- [@karnthis](https://github.com/karnthis)
+- [@nartc](https://github.com/nartc)

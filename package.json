@@ -4,6 +4,7 @@
     "description": "This will get you up and running to get a boilerplate of bootstrap ready in a sec",
     "version": "0.0.3",
     "publisher": "eventyret",
+	"test": "node ./node_modules/vscode/bin/test",
     "repository": {
         "type": "git",
         "url": "https://github.com/Eventyret/vscode-bcdn"

@@ -10,6 +10,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 Added Navigation snippets  Thanks to [@karnthis](https://github.com/karnthis) #1
 Added Bootstrap4 CDN without jQuery Thanks to [@nartc](https://github.com/nartc) #2
+Added 2 basic form snippets: form-group and form-control Thanks to [@nartc](https://github.com/nartc) #3
+Added travis CI testing (WIP)
 
 ### Fixed
 
