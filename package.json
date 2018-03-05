@@ -23,6 +23,10 @@
             {
                 "language": "html",
                 "path": "./snippets/navsnippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/formsnippets.json"
             }
         ]
     }
