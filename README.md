@@ -10,7 +10,7 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/eventyret.bootstrap-4-cdn-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/eventyret.bootstrap-4-cdn-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/dwyl/eventyret/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/eventyret/issues)
 
 
 
@@ -33,6 +33,10 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 | !bfc    	| Bootstrap Form Control                                                             	|
 
 ## Release Notes
+
+### [1.0.7]
+#### Added
+- Added icon to plugin
 
 ### [1.0.6]
 #### Fixed

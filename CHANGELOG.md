@@ -1,3 +1,7 @@
+### [1.0.7]
+#### Added
+- Added icon to plugin
+
 ### [1.0.6]
 #### Fixed
 - Space in Url for bootstrap. #5
