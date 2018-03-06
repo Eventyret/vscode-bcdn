@@ -1,5 +1,14 @@
-### [1.0.5]
+### [1.0.6]
 #### Fixed
+- Space in Url for bootstrap. #5
+- Fixed popper.js unexpected token error. #6
+- Problems with badges not displaying.
+
+#### Removed
+- Removed Travis CI Build testing for now
+
+### [1.0.5]
+##### Fixed
 - Double text in readme.
 
 ### [1.0.4]

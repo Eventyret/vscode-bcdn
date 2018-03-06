@@ -3,10 +3,15 @@
 Ever been trying to start with a bootstrap template? 
 
 This is normally not an issue but I found it tedious with using `!` then add all CSS  with font-awesome and jquery etc.
-This extension will solve the issue for you with a simple `!bcdn` + `TAB` and your up and running with a full templat
 
-![[Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/eventyret.bootstrap-4-cdn-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet) ![[contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/eventyret/issues) 
-![[Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/eventyret.bootstrap-4-cdn-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
+This extension will solve the issue for you with a simple `!bcdn` + `TAB` and your up and running with a full template
+
+
+
+[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/eventyret.bootstrap-4-cdn-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
+[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/eventyret.bootstrap-4-cdn-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/dwyl/eventyret/issues)
+
 
 
 ![Gif](https://i.imgur.com/EMaQmDC.gif)
@@ -29,7 +34,17 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 
 ## Release Notes
 
+### [1.0.6]
+#### Fixed
+- Space in Url for bootstrap. #5
+- Fixed popper.js unexpected token error. #6
+- Problems with badges not displaying.
+
+#### Removed
+- Removed Travis CI Build testing for now
+
 ### [1.0.5]
+
 #### Fixed
 - Double text in readme.
 
