@@ -34,6 +34,11 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 
 ## Release Notes
 
+### [1.0.8]
+#### Added
+- Updated CSS to 4.1.2
+- Updated JS to 4.12
+
 ### [1.0.7]
 #### Added
 - Added icon to plugin
