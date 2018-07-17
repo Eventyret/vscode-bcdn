@@ -21,7 +21,7 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 
 | !bcdn      	| Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5 	|
 |------------	|-----------------------------------------------------------------------------------------------	|
-| !bcss      	| Creates an Bootstrap 4 starter template. Only with CSS (No Jquery) and Font-Awesome 45        	|
+| !bcss      	| Creates an Bootstrap 4 starter template. Only with CSS (No Jquery) and Font-Awesome 5        	|
 | !bsnav     	| Default Navigation for Bootstrap 4                                                            	|
 | !bsnavc    	| Class to Align Navigation Center                                                              	|
 | !bsnavr    	| Class to Align Navigation Right                                                               	|
