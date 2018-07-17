@@ -1,3 +1,14 @@
+### [1.1.0]
+#### Added
+- Added Support for JSX / ReactJS
+- Added Support for Vue HTML
+- Added Support for Vue HTML
+- Added Font Awesome 5 Free
+
+#### Removed
+- Removed Font Awesome 4.7
+
+
 ### [1.0.8]
 #### Added
 - Updated CSS to 4.1.2

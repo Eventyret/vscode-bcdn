@@ -19,9 +19,9 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 
 ## Shortcuts / Commands
 
-| !bcdn      	| Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 4.7 	|
+| !bcdn      	| Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5 	|
 |------------	|-----------------------------------------------------------------------------------------------	|
-| !bcss      	| Createsan Bootstrap 4 starter template. Only with CSS (No Jquery) and Font-Awesome 4.7        	|
+| !bcss      	| Creates an Bootstrap 4 starter template. Only with CSS (No Jquery) and Font-Awesome 45        	|
 | !bsnav     	| Default Navigation for Bootstrap 4                                                            	|
 | !bsnavc    	| Class to Align Navigation Center                                                              	|
 | !bsnavr    	| Class to Align Navigation Right                                                               	|
@@ -33,6 +33,17 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 | !bfc    	| Bootstrap Form Control                                                             	|
 
 ## Release Notes
+
+### [1.1.0]
+#### Added
+- Added Support for JSX / ReactJS
+- Added Support for Vue HTML
+- Added Support for Vue HTML
+- Added Font Awesome 5 Free
+
+#### Removed
+- Removed Font Awesome 4.7
+
 
 ### [1.0.8]
 #### Added
