@@ -34,6 +34,10 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 
 ## Release Notes
 
+### [1.1.1]
+#### Fixed
+- Fixed some minor spelling errors in readme and other files
+
 ### [1.1.0]
 #### Added
 - Added Support for JSX / ReactJS
