@@ -1,3 +1,7 @@
+### [1.1.2]
+#### Fixed
+- Fixed where the javascript was .map file
+
 ### [1.1.1]
 #### Fixed
 - Fixed some minor spelling errors in readme and other files

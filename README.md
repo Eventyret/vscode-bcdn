@@ -6,6 +6,8 @@ This is normally not an issue but I found it tedious with using `!` then add all
 
 This extension will solve the issue for you with a simple `!bcdn` + `TAB` and your up and running with a full template
 
+PR are open to make this even better!
+
 
 
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/eventyret.bootstrap-4-cdn-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
@@ -33,6 +35,10 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 | !bfc    	| Bootstrap Form Control                                                             	|
 
 ## Release Notes
+
+### [1.1.2]
+#### Fixed
+- Fixed where the javascript was .map file
 
 ### [1.1.1]
 #### Fixed
