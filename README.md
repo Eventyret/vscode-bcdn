@@ -36,6 +36,11 @@ PR are open to make this even better!
 
 ## Release Notes
 
+### [1.1.3]
+#### Removed
+- Removed Django and vue HTML as it was not working correctly
+
+
 ### [1.1.2]
 #### Fixed
 - Fixed where the javascript was .map file
