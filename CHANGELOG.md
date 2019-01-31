@@ -1,7 +1,14 @@
 ### [1.1.4]
+
+#### Added
 - Updated Bootstrap to version 4.2.1
 - Updated Fontawesome to version 5.7.0
 - Added Bootstrap 3 Template `!b3cdn` for the legacy people that wanted it.
+- Added full form with input, select and textarea. #9 - Thanks to [@wings30306](https://github.com/Wings30306)
+
+#### Fixed
+- Added a license #8 - This plugin now has a GNU GENERAL PUBLIC LICENSE.
+- Updated the table in README
 
 ### [1.1.3]
 #### Removed

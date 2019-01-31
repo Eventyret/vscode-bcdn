@@ -4,6 +4,12 @@
 	"description": "This will get you up and running to get a boilerplate of bootstrap ready in a sec",
 	"version": "1.1.4",
 	"publisher": "eventyret",
+	"homepage": "https://github.com/Eventyret/vscode-bcdn/blob/master/README.md",
+	"license": "SEE LICENSE IN LICENSE.md",
+	"bugs": {
+		"url": "https://github.com/Eventyret/vscode-bcdn/issues",
+		"email": "simen.dehlin@gmail.com"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Eventyret/vscode-bcdn"
