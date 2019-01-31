@@ -31,7 +31,6 @@ Fixed some issues with readme
 #### Added
 - Added Support for JSX / ReactJS
 - Added Support for Vue HTML
-- Added Support for Vue HTML
 - Added Font Awesome 5 Free
 
 #### Removed
