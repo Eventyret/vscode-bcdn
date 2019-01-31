@@ -1,3 +1,8 @@
+### [1.1.5]
+
+#### Fixed
+Fixed some issues with readme
+
 ### [1.1.4]
 
 #### Added
