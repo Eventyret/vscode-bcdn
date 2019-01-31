@@ -1,3 +1,8 @@
+### [1.1.4]
+- Updated Bootstrap to version 4.2.1
+- Updated Fontawesome to version 5.7.0
+- Added Bootstrap 3 Template `!b3cdn` for the legacy people that wanted it.
+
 ### [1.1.3]
 #### Removed
 - Removed Django and vue HTML as it was not working correctly
