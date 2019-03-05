@@ -2,7 +2,7 @@
 	"name": "bootstrap-4-cdn-snippet",
 	"displayName": "Bootstrap 4 CDN Snippet",
 	"description": "This will get you up and running to get a boilerplate of bootstrap ready in a sec",
-	"version": "1.1.5",
+	"version": "1.1.6",
 	"publisher": "eventyret",
 	"homepage": "https://github.com/Eventyret/vscode-bcdn/blob/master/README.md",
 	"license": "SEE LICENSE IN LICENSE.md",

@@ -1,3 +1,8 @@
+### [1.1.6]
+### Added
+- Updated Bootstrap to version 4.3.1 - Thanks to [@alejandrogarciapalomo](https://github.com/alejandrogarciapalomo)
+- Updated Fontawesome to version 5.7.2 - Thanks to [@alejandrogarciapalomo](https://github.com/alejandrogarciapalomo)
+
 ### [1.1.5]
 
 #### Fixed
