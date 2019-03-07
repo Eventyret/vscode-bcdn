@@ -24,6 +24,31 @@
 		"description": "This comes with a complete Bootstrap 4 CDN all it's dependencies and Font-Awesome 5"
 	},
 	
+	"Bootstrap 4 Starter Template CDN jQuery with Ajax": {
+		"prefix": "!bcdnajax",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html lang=\"en\">",
+			"<head>",
+			"<meta charset=\"UTF-8\">",
+			"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+			"<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">",
+			"<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css\">",
+			"<link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.7.2/css/all.css\">",
+			"<link rel=\"stylesheet\" href=\"style.css\">",
+			"<title>${1:Title}</title>",
+			"</head>",
+			"<body>",
+			"$0",
+			"<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>",
+			"<script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js\"></script>",
+			"<script src=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js\"></script>",
+			"</body>",
+			"</html>"
+		],
+		"description": "This comes with a complete Bootstrap 4 CDN all it's dependencies, jQuery with Ajax and Font-Awesome 5"
+	},
+	
 	"Bootstrap 4 Starter Template CDN - CSS Only": {
 		"prefix": "!bcss",
 		"body": [
@@ -43,7 +68,7 @@
 			"</body>",
 			"</html>"
 		],
-		"description": "This comes with a complete Bootstrap 4 CDN with CSS-only and font-awesome 5"
+		"description": "This comes with a complete Bootstrap 4 CDN with CSS-only and Font-Awesome 5"
 	},
 	"Bootstrap 3 Starter Template CDN ": {
 		"prefix": "!b3cdn",
