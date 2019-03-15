@@ -34,6 +34,10 @@ PR are open to make this even better!
 | !bsform    | Bootstrap form with input, select and textarea                                        |
 
 ## Release Notes
+### [1.1.8]
+### Fixed
+- Fixed issues with updating and publishing
+
 ### [1.1.7]
 
 ### Added
