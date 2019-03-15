@@ -1,3 +1,6 @@
+### [1.1.7]
+### Added
+- Added AJAX Support with new command `!bcdnajax` - Thanks to [@alejandrogarciapalomo](https://github.com/alejandrogarciapalomo)
 ### [1.1.6]
 ### Added
 - Updated Bootstrap to version 4.3.1 - Thanks to [@alejandrogarciapalomo](https://github.com/alejandrogarciapalomo)

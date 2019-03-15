@@ -21,6 +21,7 @@ PR are open to make this even better!
 | !bcdn      | Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5    |
 | !bcss      | Creates an Bootstrap 4 starter template. Only with CSS (No Jquery) and Font-Awesome 5 |
 | !b3cdn     | Creates an Bootstrap 4 starter template. With Jquery, Font-Awesome 4.7                |
+| !bcdnajax      | Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5 (Ajax support)    |
 | !bsnav     | Default Navigation for Bootstrap 4                                                    |
 | !bsnavc    | Class to Align Navigation Center                                                      |
 | !bsnavr    | Class to Align Navigation Right                                                       |
@@ -33,6 +34,10 @@ PR are open to make this even better!
 | !bsform    | Bootstrap form with input, select and textarea                                        |
 
 ## Release Notes
+### [1.1.7]
+
+### Added
+- Added AJAX Support with new command `!bcdnajax` - Thanks to [@alejandrogarciapalomo](https://github.com/alejandrogarciapalomo)
 
 ### [1.1.6]
 
