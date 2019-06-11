@@ -34,6 +34,15 @@ PR are open to make this even better!
 | !bsform    | Bootstrap form with input, select and textarea                                        |
 
 ## Release Notes
+### [1.1.9]
+### Added
+- Updated FontAwesome 5 to 5.8.2
+- Updated Jquery to 3.4.1
+- Updated popper.js to 1.50.0
+
+### Fixed
+- Changed FontAwesome 4 to 5 on Bootstrap 3 Starter Template
+
 ### [1.1.8]
 ### Fixed
 - Fixed issues with updating and publishing
