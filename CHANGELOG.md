@@ -1,3 +1,7 @@
+### [1.2.2]
+### Fixed
+- Fixed a problem with versions and npm
+
 ### [1.2.1]
 ### Added
 - Added `bcdnjs` to the table in README

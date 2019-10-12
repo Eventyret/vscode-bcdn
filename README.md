@@ -35,6 +35,10 @@ PR are open to make this even better!
 | !bsform    | Bootstrap form with input, select and textarea                                        |
 
 ## Release Notes
+### [1.2.2]
+### Fixed
+- Fixed a problem with versions and npm
+
 ### [1.2.1]
 ### Added
 - Added `bcdnjs` to the table in README
