@@ -1,4 +1,4 @@
-### [1.2.2]
+### [1.2.3]
 ### Fixed
 - Fixed a problem with versions and npm
 
