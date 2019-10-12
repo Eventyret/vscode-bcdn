@@ -22,6 +22,7 @@ PR are open to make this even better!
 | !bcss      | Creates an Bootstrap 4 starter template. Only with CSS (No Jquery) and Font-Awesome 5 |
 | !b3cdn     | Creates an Bootstrap 4 starter template. With Jquery, Font-Awesome 4.7                |
 | !bcdnajax      | Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5 (Ajax support)    |
+| !b3cdn     | This will insert all the javascript at the footer.                |
 | !bsnav     | Default Navigation for Bootstrap 4                                                    |
 | !bsnavc    | Class to Align Navigation Center                                                      |
 | !bsnavr    | Class to Align Navigation Right                                                       |
@@ -34,6 +35,10 @@ PR are open to make this even better!
 | !bsform    | Bootstrap form with input, select and textarea                                        |
 
 ## Release Notes
+### [1.2.1]
+### Added
+- Added `bcdnjs` to the table in README
+- Updated Font Awesome 5 to `5.11.2`
 
 ### [1.2.0]
 ### Added

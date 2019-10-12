@@ -1,3 +1,8 @@
+### [1.2.1]
+### Added
+- Added `bcdnjs` to the table in README
+- Updated Font Awesome 5 to `5.11.2`
+
 ### [1.2.0]
 ### Added
 - Added `bcdnjs` this will give you the ability to just insert all the javascript at the footer.
