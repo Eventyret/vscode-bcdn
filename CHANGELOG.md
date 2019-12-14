@@ -14,6 +14,7 @@
 
 - Fixed an issue where the wrong command was written in the README. 🐛
 - Changed the structure of the tables in the readme to make it easier to read 🚀
+- Added and removed comma structure in `package.json` as this was broken
 
 ### [1.2.3]
 
