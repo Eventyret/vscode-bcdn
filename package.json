@@ -66,11 +66,11 @@
 			{
 				"language": "javascript",
 				"path": "./snippets/formsnippets.json"
-			}
+			},
 			{
 				"language": "javascript",
 				"path": "./snippets/bootswatch.json"
-			},
+			}
 		]
 	},
 	"dependencies": {
