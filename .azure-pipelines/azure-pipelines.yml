@@ -54,5 +54,5 @@ trigger:
 	- task: PublishPipelineArtifact@1
 	  displayName: Publish VSIX
 	  inputs:
-		artifact: git-mob-vs-code
+		artifact: bootstrap-4-cdn-snippet
 		targetPath: $(Build.ArtifactStagingDirectory)
