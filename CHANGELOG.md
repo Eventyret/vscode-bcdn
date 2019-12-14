@@ -1,10 +1,17 @@
 ## Release Notes
 
+| 🚀  | New Feature |
+| --- | ----------- |
+| ✅  | Minor Fix   |
+| 🐛  | Bugfix      |
+
+## Release Notes
+
 ### [1.3.0]
 
 ### Added
 
-- Updated Bootstrap to `4.4.1`  ✅
+- Updated Bootstrap to `4.4.1` ✅
 - Updated PopperJS to `1.16.0` ✅
 - Added `!bcdncss` to add latest bootstrap and font awesome styles 🚀
 - Emojis for better readability in changelog and README 🚀 😍
@@ -40,7 +47,7 @@
 
 ### Added
 
-- Updated FontAwesome 5 to `5.8.2 ` ✅
+- Updated FontAwesome 5 to `5.8.2` ✅
 - Updated Jquery to `3.4.1` ✅
 - Updated popper.js to `1.50.0` ✅
 

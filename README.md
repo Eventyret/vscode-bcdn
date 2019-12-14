@@ -69,6 +69,11 @@ PR are open to make this even better!
 
 ## Release Notes
 
+| 🚀 | New Feature |
+|---|-------------|
+| ✅ | Minor Fix   |
+| 🐛 | Bugfix      |
+
 ### [1.3.0]
 
 ### Added
