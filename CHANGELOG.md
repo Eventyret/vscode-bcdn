@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD037 MD024 MD041 -->
+
 ## Release Notes
 
 | 🚀  | New Feature |
@@ -6,6 +8,26 @@
 | 🐛  | Bugfix      |
 
 ## Release Notes
+
+### [1.4.0]
+
+### Added
+
+- Moved the paths for `style.css`to be a better standard now it will be `assets/css/style.css`
+- Added support for Django templates `django-html` support requested in #15 🚀
+- Added support for jinja templates `jinja-html` support requested in #15 🚀
+- Updated jQuery to `3.5.0` ✅
+- Updated popper.js to `1.16.1` ✅
+- Updated Font Awesome to `5.13.0` ✅
+- Added support for github actions 🚀
+
+### Fixed
+
+- Fixed an issue with the README with markdown errors.
+
+### Removed
+
+- Removed Azure-pipeline
 
 ### [1.3.0]
 
