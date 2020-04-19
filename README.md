@@ -1,5 +1,7 @@
 # Bootstrap 4 with CDN Boilerplate
 
+<!-- markdownlint-disable MD037 MD024 -->
+
 Ever been trying to start with a bootstrap template?
 
 This is normally not an issue but I found it tedious with using `!` then add all CSS with font-awesome and jquery etc.
@@ -18,18 +20,19 @@ PR are open to make this even better!
 
 ### Main Commands
 
-| **Command**   | **Help Text **                                                                                        |
-| --------- | ------------------------------------------------------------------------------------------------- |
-| !bcdn     | Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5                |
-| !bcss     | Creates an Bootstrap 4 starter template. Only with CSS (No Jquery) and Font-Awesome 5             |
-| !b3cdn    | Creates an Bootstrap 4 starter template. With Jquery, Font-Awesome 4.7                            |
-| !bcdnajax | Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5 (Ajax support) |
-| !bcdnjs   | Creates all the script links for JS (Links only)                                                  |
-| !bcdncss  | Creates all the style links for CSS (Links only)                                                  |
+| **Command** | **Help Text **                                                                                    |
+| ----------- | ------------------------------------------------------------------------------------------------- |
+| !bcdn       | Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5                |
+| !bcss       | Creates an Bootstrap 4 starter template. Only with CSS (No Jquery) and Font-Awesome 5             |
+| !b3cdn      | Creates an Bootstrap 4 starter template. With Jquery, Font-Awesome 4.7                            |
+| !bcdnajax   | Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5 (Ajax support) |
+| !bcdnjs     | Creates all the script links for JS (Links only)                                                  |
+| !bcdncss    | Creates all the style links for CSS (Links only)                                                  |
 
 ### Bootswatch Template variations
-| **Command**        | **Help Text **                                                        |
-|----------------|-------------------------------------------------------------------|
+
+| **Command**    | **Help Text **                                                    |
+| -------------- | ----------------------------------------------------------------- |
 | !bcdncerulean  | Creates an Bootstrap 4 Template with Cerulean Bootswatch Colors   |
 | !bcdncosmo     | Creates an Bootstrap 4 Template with Cosmo Bootswatch colors      |
 | !bcdncyborg    | Creates an Bootstrap 4 Template with Cyborg Bootswatch colors     |
@@ -56,7 +59,7 @@ PR are open to make this even better!
 
 | Command    | Help Text                                      |
 | ---------- | ---------------------------------------------- |
-| !bsnav     | Default Navigation for Bootstrap             |
+| !bsnav     | Default Navigation for Bootstrap               |
 | !bsnavc    | Class to Align Navigation Center               |
 | !bsnavr    | Class to Align Navigation Right                |
 | !bsnavtab  | Class to Use Tab Style Navigation              |
@@ -69,16 +72,36 @@ PR are open to make this even better!
 
 ## Release Notes
 
-| 🚀 | New Feature |
-|---|-------------|
-| ✅ | Minor Fix   |
-| 🐛 | Bugfix      |
+| 🚀  | New Feature |
+| --- | ----------- |
+| ✅  | Minor Fix   |
+| 🐛  | Bugfix      |
+
+### [1.4.0]
+
+### Added
+
+- Moved the paths for `style.css`to be a better standard now it will be `assets/css/style.css`
+- Added support for Django templates `django-html` support requested in #15 🚀
+- Added support for jinja templates `jinja-html` support requested in #15 🚀
+- Updated jQuery to `3.5.0` ✅
+- Updated popper.js to `1.16.1` ✅
+- Updated Font Awesome to `5.13.0` ✅
+- Added support for github actions 🚀
+
+### Fixed
+
+- Fixed an issue with the README with markdown errors.
+
+### Removed
+
+- Removed Azure-pipeline
 
 ### [1.3.0]
 
 ### Added
 
-- Updated Bootstrap to `4.4.1`  ✅
+- Updated Bootstrap to `4.4.1` ✅
 - Updated PopperJS to `1.16.0` ✅
 - Added `!bcdncss` to add latest bootstrap and font awesome styles 🚀
 - Emojis for better readability in changelog and README 🚀 😍
@@ -114,7 +137,7 @@ PR are open to make this even better!
 
 ### Added
 
-- Updated FontAwesome 5 to `5.8.2 ` ✅
+- Updated FontAwesome 5 to `5.8.2` ✅
 - Updated Jquery to `3.4.1` ✅
 - Updated popper.js to `1.50.0` ✅
 
