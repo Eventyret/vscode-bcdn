@@ -9,6 +9,13 @@
 
 ## Release Notes
 
+### [1.4.1]
+
+### Fixed
+
+- Reverted jQuery to v.3.4.1 for compatibility issues with current Bootstrap version. ✅ 
+
+
 ### [1.4.0]
 
 ### Added
@@ -218,3 +225,4 @@ No known issues so far.
 - [@karnthis](https://github.com/karnthis)
 - [@nartc](https://github.com/nartc)
 - [@wings30306](https://github.com/Wings30306)
+- [@gbrachetta](https://github.com/GBrachetta)
