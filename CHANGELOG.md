@@ -9,6 +9,14 @@
 
 ## Release Notes
 
+### [1.6.0]
+
+### Added
+
+- New Icon 🚀
+- New Screencast 🚀
+- New Shields for supporting 🚀
+
 ### [1.5.0]
 
 ### Added

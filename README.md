@@ -10,9 +10,14 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 
 PR are open to make this even better!
 
-[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/eventyret.bootstrap-4-cdn-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
-[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/eventyret.bootstrap-4-cdn-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/Eventyret/vscode-bcdn/issues)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/eventyret.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/eventyret.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/eventyret.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/eventyret.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
+
+![GitHub](https://img.shields.io/github/license/Eventyret/vscode-bcdn?style=for-the-badge&logo=github)
+![Maintenance](https://img.shields.io/maintenance/yes/2020?style=for-the-badge&logo=github)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/Eventyret/vscode-bcdn/issues)
 
 ![Gif](https://i.imgur.com/EMaQmDC.gif)
 
