@@ -9,6 +9,16 @@
 
 ## Release Notes
 
+### [1.6.0]
+
+### Added
+
+- Created a brand New Icon 🚀
+- New Screencast 🚀
+- New Shields added 🚀
+- Added bug report template for Github 🚀
+- Added feature request template for Github 🚀
+
 ### [1.5.0]
 
 ### Added
