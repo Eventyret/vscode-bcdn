@@ -19,7 +19,6 @@ The extension also supports [Bootswatch](https://bootswatch.com/) themes
 ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=for-the-badge&logo=github)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/Eventyret/vscode-bcdn/issues)
 
-
 ![Gif](https://i.imgur.com/6RmNOwu.gif)
 
 ## Shortcuts / Commands
@@ -83,6 +82,12 @@ The extension also supports [Bootswatch](https://bootswatch.com/) themes
 | --- | ----------- |
 | ✅  | Minor Fix   |
 | 🐛  | Bugfix      |
+
+### [1.6.1]
+
+### Fixed
+
+- Fixed spelling mistake in the title of the plugin 🐛
 
 ### [1.6.0]
 

@@ -9,6 +9,12 @@
 
 ## Release Notes
 
+### [1.6.1]
+
+### Fixed
+
+- Fixed spelling mistake in the title of the plugin 🐛
+
 ### [1.6.0]
 
 ### Added
