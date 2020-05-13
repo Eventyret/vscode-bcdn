@@ -9,12 +9,19 @@
 
 ## Release Notes
 
+### [1.5.0]
+
+### Added
+
+- Upgraded bootstrap to `4.5.0` 🚀
+- Upgraded bootstrap to `3.5.1` ✅
+- Added sticky navbar with `!bsnavsticky` 🚀
+
 ### [1.4.1]
 
 ### Fixed
 
-- Reverted jQuery to v.3.4.1 for compatibility issues with current Bootstrap version. ✅ 
-
+- Reverted jQuery to v.3.4.1 for compatibility issues with current Bootstrap version. ✅
 
 ### [1.4.0]
 

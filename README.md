@@ -57,18 +57,19 @@ PR are open to make this even better!
 
 ### Forms and misc Classes
 
-| Command    | Help Text                                      |
-| ---------- | ---------------------------------------------- |
-| !bsnav     | Default Navigation for Bootstrap               |
-| !bsnavc    | Class to Align Navigation Center               |
-| !bsnavr    | Class to Align Navigation Right                |
-| !bsnavtab  | Class to Use Tab Style Navigation              |
-| !bsnavpill | Class to Use Pill Style Navigation             |
-| !bsnavdd   | Default Dropdown Navigation (Requires Jquery)  |
-| !bsnavj    | Class to Justify Navigation                    |
-| !bfg       | Bootstrap Form Group parent element            |
-| !bfc       | Bootstrap Form Control                         |
-| !bsform    | Bootstrap form with input, select and textarea |
+| Command      | Help Text                                      |
+| ------------ | ---------------------------------------------- |
+| !bsnav       | Default Navigation for Bootstrap               |
+| !bsnavc      | Class to Align Navigation Center               |
+| !bsnavr      | Class to Align Navigation Right                |
+| !bsnavtab    | Class to Use Tab Style Navigation              |
+| !bsnavsticky | Default Sticky Navigation for Bootstrap        |
+| !bsnavpill   | Class to Use Pill Style Navigation             |
+| !bsnavdd     | Default Dropdown Navigation (Requires Jquery)  |
+| !bsnavj      | Class to Justify Navigation                    |
+| !bfg         | Bootstrap Form Group parent element            |
+| !bfc         | Bootstrap Form Control                         |
+| !bsform      | Bootstrap form with input, select and textarea |
 
 ## Release Notes
 
@@ -77,12 +78,20 @@ PR are open to make this even better!
 | ✅  | Minor Fix   |
 | 🐛  | Bugfix      |
 
+### [1.5.0]
+
+### Added
+
+- Upgraded bootstrap to `4.5.0` 🚀
+- Upgraded bootstrap to `3.5.1` ✅
+- Upgraded bootstrap to `3.5.1` ✅
+- Added sticky navbar with `!bsnavsticky` 🚀
+
 ### [1.4.1]
 
 ### Fixed
 
-- Reverted jQuery to v.3.4.1 for compatibility issues with current Bootstrap version. ✅ 
-
+- Reverted jQuery to v.3.4.1 for compatibility issues with current Bootstrap version. ✅
 
 ### [1.4.0]
 
