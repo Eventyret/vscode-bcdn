@@ -13,9 +13,11 @@
 
 ### Added
 
-- New Icon 🚀
+- Created a brand New Icon 🚀
 - New Screencast 🚀
-- New Shields for supporting 🚀
+- New Shields added 🚀
+- Added bug report template for Github 🚀
+- Added feature request template for Github 🚀
 
 ### [1.5.0]
 
