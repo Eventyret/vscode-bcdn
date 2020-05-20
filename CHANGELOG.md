@@ -9,6 +9,12 @@
 
 ## Release Notes
 
+### [1.7.0]
+
+### Added
+
+- Added Meta Description element to initial block.
+
 ### [1.6.1]
 
 ### Fixed
