@@ -83,6 +83,12 @@ The extension also supports [Bootswatch](https://bootswatch.com/) themes
 | ✅  | Minor Fix   |
 | 🐛  | Bugfix      |
 
+### [1.7.0]
+
+### Added
+
+- Added Meta Description element to initial block. 🚀 / Thanks [@betahope](https://github.com/BetaHope)
+
 ### [1.6.1]
 
 ### Fixed
@@ -324,3 +330,4 @@ No known issues so far.
 - [@nartc](https://github.com/nartc)
 - [@wings30306](https://github.com/Wings30306)
 - [@gbrachetta](https://github.com/GBrachetta)
+- [@betahope](https://github.com/BetaHope)
