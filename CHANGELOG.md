@@ -13,7 +13,7 @@
 
 ### Added
 
-- Added Meta Description element to initial block.
+- Added Meta Description element to initial block. 🚀 / Thanks [@betahope](https://github.com/BetaHope)
 
 ### [1.6.1]
 
