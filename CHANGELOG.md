@@ -9,6 +9,17 @@
 
 ## Release Notes
 
+### [1.8.0]
+
+### Added
+
+- Added bootstrap 5 alpha support with new command `!bcdn5`
+- Upgraded Font Awesome to `5.13.1`
+
+### Removed
+
+- Removed jQuery as dependancy for Bootstrap 5
+
 ### [1.7.0]
 
 ### Added
