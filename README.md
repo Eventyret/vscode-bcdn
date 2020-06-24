@@ -28,6 +28,7 @@ The extension also supports [Bootswatch](https://bootswatch.com/) themes
 | **Command** | **Help Text **                                                                                    |
 | ----------- | ------------------------------------------------------------------------------------------------- |
 | !bcdn       | Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5                |
+| !bcdn5       | Creates an Bootstrap 5 starter template. With popper.js and Font-Awesome 5                       |
 | !bcss       | Creates an Bootstrap 4 starter template. Only with CSS (No Jquery) and Font-Awesome 5             |
 | !b3cdn      | Creates an Bootstrap 4 starter template. With Jquery, Font-Awesome 4.7                            |
 | !bcdnajax   | Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5 (Ajax support) |
@@ -82,6 +83,17 @@ The extension also supports [Bootswatch](https://bootswatch.com/) themes
 | --- | ----------- |
 | ✅  | Minor Fix   |
 | 🐛  | Bugfix      |
+
+### [1.8.0]
+
+### Added
+
+- Added bootstrap 5 alpha support with new command `!bcdn5`
+- Upgraded Font Awesome to `5.13.1`
+
+### Removed
+
+- Removed jQuery as dependancy for Bootstrap 5
 
 ### [1.7.0]
 
