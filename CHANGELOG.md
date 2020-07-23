@@ -9,6 +9,16 @@
 
 ## Release Notes
 
+### [1.8.1]
+
+### Added
+
+- Upgraded Font Awesome to `5.14.0`
+
+### Fixed
+
+- Upgraded `npm` dependency to `6.14.6`
+
 ### [1.8.0]
 
 ### Added
