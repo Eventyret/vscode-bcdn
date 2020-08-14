@@ -9,26 +9,32 @@
 
 ## Release Notes
 
+### [1.8.2]
+
+### Added
+
+- Upgraded Bootstrap to `4.5.2` ✅
+
 ### [1.8.1]
 
 ### Added
 
-- Upgraded Font Awesome to `5.14.0`
+- Upgraded Font Awesome to `5.14.0` ✅
 
 ### Fixed
 
-- Upgraded `npm` dependency to `6.14.6`
+- Upgraded `npm` dependency to `6.14.6` ✅
 
 ### [1.8.0]
 
 ### Added
 
-- Added bootstrap 5 alpha support with new command `!bcdn5`
-- Upgraded Font Awesome to `5.13.1`
+- Added bootstrap 5 alpha support with new command `!bcdn5`  🚀
+- Upgraded Font Awesome to `5.13.1`  ✅
 
 ### Removed
 
-- Removed jQuery as dependancy for Bootstrap 5
+- Removed jQuery as dependancy for Bootstrap 5 ✅
 
 ### [1.7.0]
 
