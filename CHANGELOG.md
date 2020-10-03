@@ -9,6 +9,14 @@
 
 ## Release Notes
 
+### [1.9.0]
+
+### Added
+
+- Upgraded Bootstrap 5 Alpha to `Alpha 2` ✅
+- Upgraded Font Awesome to `5.15.0` (This introduces the free covid-19 icons) ✅
+- Added new center bootstrap command `!bsnavcenter` (This will create a centered brand navbar) 🚀
+
 ### [1.8.2]
 
 ### Added
@@ -29,8 +37,8 @@
 
 ### Added
 
-- Added bootstrap 5 alpha support with new command `!bcdn5`  🚀
-- Upgraded Font Awesome to `5.13.1`  ✅
+- Added bootstrap 5 alpha support with new command `!bcdn5` 🚀
+- Upgraded Font Awesome to `5.13.1` ✅
 
 ### Removed
 
