@@ -66,6 +66,7 @@ The extension also supports [Bootswatch](https://bootswatch.com/) themes
 | Command      | Help Text                                      |
 | ------------ | ---------------------------------------------- |
 | !bsnav       | Default Navigation for Bootstrap               |
+| !bsnavcenter | Create a center logo navbar                    |
 | !bsnavc      | Class to Align Navigation Center               |
 | !bsnavr      | Class to Align Navigation Right                |
 | !bsnavtab    | Class to Use Tab Style Navigation              |
@@ -83,6 +84,13 @@ The extension also supports [Bootswatch](https://bootswatch.com/) themes
 | --- | ----------- |
 | ✅  | Minor Fix   |
 | 🐛  | Bugfix      |
+
+### [1.10.0]
+
+### Added
+
+- Upgraded Bootstrap 5 Alpha to `Beta 1` ✅
+- Upgraded Font Awesome to `5.15.1` (This introduces the free covid-19 icons) ✅
 
 ### [1.9.0]
 
