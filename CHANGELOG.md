@@ -9,6 +9,13 @@
 
 ## Release Notes
 
+### [1.10.0]
+
+### Added
+
+- Upgraded Bootstrap 5 Alpha to `Beta 1` ✅
+- Upgraded Font Awesome to `5.15.1` (This introduces the free covid-19 icons) ✅
+
 ### [1.9.0]
 
 ### Added
