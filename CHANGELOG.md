@@ -13,7 +13,7 @@
 
 ### Added
 
-- Upgraded Bootstrap 4.5.3 Alpha to 4.6.0` ✅
+- Upgraded Bootstrap to `4.6.0` ✅
 - Upgraded Font Awesome to `5.15.2`
 
 ### [1.10.0]
