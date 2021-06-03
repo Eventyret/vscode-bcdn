@@ -9,6 +9,14 @@
 
 ## Release Notes
 
+### [1.12.0]
+
+### Added
+
+- Upgraded Bootstrap 5-beta1 to 5.0.1` ✅
+- Upgraded Font Awesome to `5.15.13`
+- Added new bootswatch 5 themes 🚀
+
 ### [1.11.0]
 
 ### Added
