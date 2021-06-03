@@ -2,7 +2,7 @@
   "name": "bootstrap-4-cdn-snippet",
   "displayName": "Bootstrap 4 CDN Snippet",
   "description": "This will get you up and running to get a boilerplate of bootstrap ready in a sec",
-  "version": "1.11.1",
+  "version": "1.12.0",
   "publisher": "eventyret",
   "homepage": "https://github.com/Eventyret/vscode-bcdn/blob/master/README.md",
   "license": "SEE LICENSE IN LICENSE.md",
@@ -40,6 +40,10 @@
         "path": "./snippets/bootswatch.json"
       },
       {
+        "language": "html",
+        "path": "./snippets/bootswatch5.json"
+      },
+      {
         "language": "jinja-html",
         "path": "./snippets/snippets.json"
       },
@@ -54,6 +58,10 @@
       {
         "language": "jinja-html",
         "path": "./snippets/bootswatch.json"
+      },
+      {
+        "language": "jinja-html",
+        "path": "./snippets/bootswatch5.json"
       },
       {
         "language": "django-html",
@@ -72,6 +80,10 @@
         "path": "./snippets/bootswatch.json"
       },
       {
+        "language": "django-html",
+        "path": "./snippets/bootswatch5.json"
+      },
+      {
         "language": "javascriptreact",
         "path": "./snippets/snippets.json"
       },
@@ -88,6 +100,10 @@
         "path": "./snippets/bootswatch.json"
       },
       {
+        "language": "javascriptreact",
+        "path": "./snippets/bootswatch5.json"
+      },
+      {
         "language": "javascript",
         "path": "./snippets/snippets.json"
       },
@@ -102,6 +118,10 @@
       {
         "language": "javascript",
         "path": "./snippets/bootswatch.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/bootswatch5.json"
       }
     ]
   },
