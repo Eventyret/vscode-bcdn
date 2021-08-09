@@ -85,6 +85,18 @@ The extension also supports [Bootswatch](https://bootswatch.com/) themes
 | ✅  | Minor Fix   |
 | 🐛  | Bugfix      |
 
+### [1.13.0]
+
+### Added
+
+- Upgraded Bootstrap from `5.0.1` to `5.1.0` ✅
+- Upgraded Bootswatch from `5.0.1` to `5.1.0` ✅
+- Upgraded Font Awesome to `5.15.14`
+
+### Fixed
+
+- Fixed some minor spelling and layout issues in readme
+
 ### [1.12.0]
 
 ### Added
